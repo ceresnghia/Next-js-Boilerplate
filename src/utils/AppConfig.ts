@@ -4,3 +4,5 @@ export const AppConfig = {
   description: 'Starter code for your Nextjs Boilerplate with Tailwind CSS',
   locale: 'en',
 };
+
+export const baseAPIUrl = 'https://jsonplaceholder.typicode.com';
